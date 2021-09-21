@@ -1,0 +1,68 @@
+# system files
+*.DS_Store
+*.ini
+*~
+~$*
+
+# Prerequisites
+*.d
+
+# Preprocessing
+*.i
+*.ii
+
+# Object files
+*.elf
+*.ko
+*.lo
+*.o
+*.obj
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Dynamic libraries
+*.dll
+*.dylib
+*.so
+*.so.*
+
+# Static libraries
+*.a
+*.la
+*.lai
+*.lib
+*.lo
+
+# Executables
+*.app
+*.exe
+*.hex
+*.i*86
+*.out
+*.x86_64
+
+# Linker output
+*.exp
+*.ilk
+*.map
+
+# Debug files
+*.dSYM/
+*.idb
+*.pdb
+*.su
+
+# Visual Studio Code
+.history/
+.vscode/
+*.code-workspace
+
+# text files
+*.pdf
+*.txt
+*dump
+
+# current project
